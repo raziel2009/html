@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb0c24d-573d-42d6-af6a-9899fef98755" name="Changes" comment="sdgs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson 2" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson 2/homework2/blok1/homework2.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -79,7 +78,16 @@
       <workItem from="1648892829137" duration="10000" />
       <workItem from="1649151255017" duration="570000" />
       <workItem from="1649154517720" duration="15818000" />
+      <workItem from="1649190776950" duration="290000" />
     </task>
+    <task id="LOCAL-00001" summary="sdgs">
+      <created>1649190787676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649190787676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
