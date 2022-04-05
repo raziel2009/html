@@ -1,0 +1,24 @@
+h1 { background: blue;
+    color: chartreuse;
+    text-align: center;
+}
+h2 {
+    background: brown;
+    color: indigo;
+    text-align: center;
+}
+p {
+    background: aqua;
+    color: maroon;
+    text-align: center;
+}
+li{
+    background: yellowgreen;
+    color: white;
+    width: 400px;
+    height: 20px;
+}
+img {
+    width: 200px;
+
+}
